@@ -1,4 +1,4 @@
-# emea-ansible-hackathon
+# emea-ansible-hackathon instructions
 
 
 Dear hackathon contributors, you haven't completed all mandatory prerequisities yet to become part of the [github organization](https://github.com/rh-ibm-synergy), so please follow all steps (mainly steps 2 and 3) as described in the guidance https://github.ibm.com/tomas-nykodym/redhat-ibm/blob/master/README.md
