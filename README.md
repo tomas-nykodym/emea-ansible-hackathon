@@ -10,6 +10,7 @@ Without those steps you won't be able to access your repository nor to accept th
 Also update your [GitHub profile](https://github.com/settings/profile) with your Full Name and Company.
 
 Thank you
+
 Tomas Nykodym
 
 If needed ping me via Slack.
